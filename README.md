@@ -1,5 +1,3 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-
 ## Laravel 8 and React 17 boilerplate
 There are two different ways to run this demo
 
@@ -48,21 +46,6 @@ run following commands
 open browser and check the following address
 
 `http://localhost:8100`
-
-TODO:
-
-- [x] Add Redux
-- [x] Add Laravel Sanctum for authentication
-- [x] User Login
-- [x] User Register
-- [x] Users Crud
-- [x] Articles Crud
-- [x] Form validation Client and Server
-- [x] Reset Password
-- [x] Tests
-- [x] Upgrade to Laravel 7
-- [x] Upgrade to React 16.13
-- [x] docker
 
 
 
